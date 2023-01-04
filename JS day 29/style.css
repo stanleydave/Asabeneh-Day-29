@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  main {
+    font-size: 5rem;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 6rem;
+    transition: 1500ms linear;
+  }
+  span {
+    transition: 1500ms linear;
+  }
